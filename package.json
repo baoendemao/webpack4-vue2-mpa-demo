@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baoendemao/webpack-test.git"
+    "url": "git+https://github.com/baoendemao/webpack4-vue2-mpa-demo.git"
   },
   "author": "journey6688@126.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/baoendemao/webpack-test/issues"
+    "url": "https://github.com/baoendemao/webpack4-vue2-mpa-demo/issues"
   },
-  "homepage": "https://github.com/baoendemao/webpack-test#readme",
+  "homepage": "https://github.com/baoendemao/webpack4-vue2-mpa-demo#readme",
   "devDependencies": {
     "autoprefixer": "^9.5.0",
     "babel-core": "^6.26.3",
